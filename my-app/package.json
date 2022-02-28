@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://karakuik.github.io/ReactAppForExperiment",
+  "homepage": "https://karakuik.github.io/ReactAppForExperiment/", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
